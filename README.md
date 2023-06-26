@@ -33,6 +33,9 @@ Professor: <i> Cássio Oliveira </i> <br>
   ele poderá excluir, Editar e Criar novas contas.  
 </pre>
 
+<hr>
+
+![Frame 2](https://github.com/Dev-nathansilva/gerenciador-JAVA/assets/124079997/7a0054e0-59de-499f-95c5-67fd7054e17c)
 
 
 
