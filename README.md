@@ -16,10 +16,10 @@ Professor: <i> Cássio Oliveira </i> <br>
 
 🎓 <b>METODOLOGIA </b>
 <pre>
- - Foi aprimorado e colocado em prática todos os conceitos e pilares de POO, como classes, objetos, herança, polimorfismo...
- - Utilizou-se a IDE NetBeans para desenvolver a interface gráfica do programa.
- - Além disso, o PostgreSQL, um banco de dados para guardar as informções inseridas pelo usuário.
- - Foi desenvolvido baseando-se no padrão DAO.
+- Foi aprimorado e colocado em prática todos os conceitos e pilares de POO, como classes, objetos, herança, polimorfismo...
+- Utilizou-se a IDE NetBeans para desenvolver a interface gráfica do programa.
+- Além disso, o PostgreSQL, um banco de dados para guardar as informções inseridas pelo usuário.
+- Foi desenvolvido baseando-se no padrão DAO.
 </pre>
 
 <hr>
